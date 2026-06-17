@@ -1,35 +1,50 @@
-# Heart Disease Prediction & Explainable AI System
+# ❤️ Heart Disease Prediction & Explainable AI System
 
-## Overview
+## 📌 Overview
+
 Machine Learning project that predicts heart disease risk using patient clinical data.
 
-## Dataset
-- 920 patient records
-- 13 medical features
-- Binary classification target
+##  Dataset
 
-## Technologies
-- Python
-- Pandas
-- NumPy
-- Scikit-learn
-- SHAP
-- Streamlit
-- Matplotlib
-- Seaborn
+* 920 patient records
+* 13 medical features
+* Binary classification target
 
-## Models Used
-- Logistic Regression
-- Random Forest
+##  Technologies Used
 
-## Results
-| Model | Accuracy |
-|---------|---------|
-| Logistic Regression | 80.4% |
-| Random Forest | 85.3% |
+* Python
+* Pandas
+* NumPy
+* Scikit-learn
+* SHAP
+* Streamlit
+* Matplotlib
+* Seaborn
 
-## Explainability
+##  Models Used
+
+* Logistic Regression
+* Random Forest
+
+##  Results
+
+| Model               | Accuracy |
+| ------------------- | -------- |
+| Logistic Regression | 80.4%    |
+| Random Forest       | 85.3%    |
+
+##  Explainability
+
 Implemented SHAP Explainable AI to understand feature contributions and improve model transparency.
 
-## Deployment
+##  Deployment
+
 Interactive Streamlit application for real-time prediction.
+
+##  Streamlit Application
+
+![Streamlit App](streamlit_app.png)
+
+##  SHAP Explainability
+
+![SHAP Plot](shap_summary_plot.png)
