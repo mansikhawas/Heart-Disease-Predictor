@@ -1,6 +1,6 @@
-# ❤️ Heart Disease Prediction & Explainable AI System
+#  Heart Disease Prediction & Explainable AI System
 
-## 📌 Overview
+##  Overview
 
 Machine Learning project that predicts heart disease risk using patient clinical data.
 
